@@ -1,0 +1,68 @@
+{
+  "wordPool": [
+    { "clue": "Snake Pokémon that spells backward", "answer": "EKANS" },
+    { "clue": "Cobra Pokémon that spells backward", "answer": "ARBOK" },
+    { "clue": "Bat Pokémon often found in caves", "answer": "ZUBAT" },
+    { "clue": "Gloomy Grass/Poison Pokémon", "answer": "GLOOM" },
+    { "clue": "Bug/Grass Pokémon with mushrooms", "answer": "PARAS" },
+    {
+      "clue": "Rock/Ground Pokémon that evolves from Graveler",
+      "answer": "GOLEM"
+    },
+    { "clue": "Two-headed bird Pokémon", "answer": "DODUO" },
+    { "clue": "Psychic-type Pokémon that uses hypnosis", "answer": "HYPNO" },
+    { "clue": "Transforming Pokémon", "answer": "DITTO" },
+    { "clue": "Evolution Pokémon with multiple evolutions", "answer": "EEVEE" },
+    { "clue": "Tiny Electric-type baby Pokémon", "answer": "PICHU" },
+    { "clue": "Monkey-like Normal Pokémon", "answer": "AIPOM" },
+    { "clue": "Dragonfly-like Bug Pokémon", "answer": "YANMA" },
+    { "clue": "Mysterious letter-shaped Psychic Pokémon", "answer": "UNOWN" },
+    { "clue": "Baby Fire-type Pokémon with a red body", "answer": "MAGBY" },
+    { "clue": "Legendary Fire-type Beast Pokémon", "answer": "ENTEI" },
+    {
+      "clue": "Legendary Psychic/Flying Guardian of the Seas",
+      "answer": "LUGIA"
+    },
+    {
+      "clue": "Water/Grass Pokémon that floats with a lilypad",
+      "answer": "LOTAD"
+    },
+    { "clue": "Tiny Psychic-type Pokémon with a red horn", "answer": "RALTS" },
+    { "clue": "Electric-type twin of Plusle", "answer": "MINUN" },
+    { "clue": "Fire/Ground camel Pokémon", "answer": "NUMEL" },
+    { "clue": "Dark-type Disaster Pokémon", "answer": "ABSOL" },
+    { "clue": "Dragon-type headbutting Pokémon", "answer": "BAGON" },
+    { "clue": "Electric-type with bright blue fur", "answer": "SHINX" },
+    { "clue": "Electric-type evolution of Shinx", "answer": "LUXIO" },
+    { "clue": "Small Grass-type bud Pokémon", "answer": "BUDEW" },
+    { "clue": "Cocoon Pokémon with three forms", "answer": "BURMY" },
+    { "clue": "Small Dragon/Ground-type Pokémon", "answer": "GIBLE" },
+    {
+      "clue": "Fighting-type Pokémon often partnered with Lucario",
+      "answer": "RIOLU"
+    },
+    { "clue": "Electric/Ghost Pokémon from appliances", "answer": "ROTOM" },
+    { "clue": "Legendary Psychic-type from Lake Trio", "answer": "AZELF" },
+    { "clue": "Grass starter of Unova region", "answer": "SNIVY" },
+    { "clue": "Fire starter pig of Unova region", "answer": "TEPIG" },
+    { "clue": "Pink dream-eater Psychic Pokémon", "answer": "MUNNA" },
+    { "clue": "Red-gi wearing Fighting Pokémon", "answer": "THROH" },
+    { "clue": "Foxlike Dark-type Pokémon", "answer": "ZORUA" },
+    { "clue": "Steel-type gear Pokémon", "answer": "KLINK" },
+    { "clue": "Evolution of Klink with gears", "answer": "KLANG" },
+    { "clue": "Dark/Dragon-type with one head", "answer": "DEINO" },
+    { "clue": "Dark/Psychic squid Pokémon", "answer": "INKAY" },
+    { "clue": "Gooey Dragon-type Pokémon", "answer": "GOOMY" },
+    { "clue": "Mischievous Mythical Psychic/Ghost Pokémon", "answer": "HOOPA" },
+    { "clue": "Baby Electric/Poison-type Pokémon", "answer": "TOXEL" },
+    {
+      "clue": "Fighting-type bear Pokémon trained in martial arts",
+      "answer": "KUBFU"
+    },
+    { "clue": "Bug/Dark Pokémon with blade legs", "answer": "LOKIX" },
+    { "clue": "Tiny Electric rodent Pokémon", "answer": "PAWMI" },
+    { "clue": "Electric-type evolution of Pawmi", "answer": "PAWMO" },
+    { "clue": "Salt Rock Pokémon from Paldea", "answer": "NACLI" },
+    { "clue": "Rock/Crab Pokémon from Paldea", "answer": "KLAWF" }
+  ]
+}

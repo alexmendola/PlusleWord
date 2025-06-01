@@ -1,13 +1,13 @@
-## Overview
+# 🧩 PlusleWord
 
-PlusleWord is a fun, Pokémon-themed word game inspired by PlusWord and Wordle. Players will need to guess Pokémon-related 5-letter words based on clues. Each guess will provide feedback in the form of color-coded boxes (similar to Wordle).
+**PlusleWord** is a Pokémon-themed word puzzle game inspired by _PlusWord_ and _Wordle_.
 
-## How to Play
+## 🎮 How to Play
 
-- You are given five crossword-style clues.
-- Each clue has a 5-letter answer that is Pokémon-themed.
-- After each guess, feedback is provided:
-  - Green: Correct letter, correct position.
-  - Yellow: Correct letter, wrong position.
-  - White: Incorrect letter.
-- The game ends once all words are guessed or the user runs out of attempts.
+- You are given **five crossword-style clues**.
+- Each clue has a **5-letter Pokémon-related answer**.
+- Boxes are **colour-coded** based on how their letters match the final **PlusleWord**:
+  - 🟩 Green: Correct letter and position.
+  - 🟨 Yellow: Letter exists in PlusleWord but in the wrong position.
+  - ⬜ White: Letter not in PlusleWord.
+- After filling all boxes, a message will let you know if you're correct.

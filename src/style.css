@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.word-input {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  gap: 5px;
+}
+
+.word-input input {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 24px;
+  text-transform: uppercase;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+
+input.green {
+  background-color: #4caf50;
+  color: white;
+}
+
+input.yellow {
+  background-color: #ffeb3b;
+  color: black;
+}
+
+input.white {
+  background-color: #eee;
+  color: black;
+}

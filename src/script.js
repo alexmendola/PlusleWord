@@ -1,7 +1,7 @@
 let plusleword = ""; // The correct PlusleWord to guess
 let clues = []; // Array of clue objects with { clue, answer }
 
-// Load the data from JSON and initialize the game
+// Load the data from JSON and initialise the game
 fetch("data/words.json")
   .then((res) => res.json())
   .then((data) => {
@@ -56,34 +56,34 @@ function renderClues() {
 
     const clueAnswer = item.answer.toUpperCase().split("");
     const target = plusleword.split("");
-    const colors = Array(5).fill("white");
+    const colours = Array(5).fill("white");
     const used = Array(5).fill(false);
 
     // First pass for greens
     for (let i = 0; i < 5; i++) {
       if (clueAnswer[i] === target[i]) {
-        colors[i] = "green";
+        colours[i] = "green";
         used[i] = true;
       }
     }
 
     // Second pass for yellows
     for (let i = 0; i < 5; i++) {
-      if (colors[i] === "green") continue;
+      if (colours[i] === "green") continue;
       for (let j = 0; j < 5; j++) {
         if (!used[j] && clueAnswer[i] === target[j]) {
-          colors[i] = "yellow";
+          colours[i] = "yellow";
           used[j] = true;
           break;
         }
       }
     }
 
-    // Render inputs with appropriate coloring
+    // Render inputs with appropriate colouring
     for (let i = 0; i < 5; i++) {
       const input = document.createElement("input");
       input.maxLength = 1;
-      input.classList.add(colors[i]);
+      input.classList.add(colours[i]);
       inputGroup.appendChild(input);
     }
 
